@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 224,
-    "major": 5,
-    "minor": 5,
+    "build": 99,
+    "major": 4,
+    "minor": 0,
     "revision": 0
   },
   "properties": {
@@ -18,6 +18,7 @@
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
+    "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Exercise",
     "description": "",
@@ -64,6 +65,7 @@
   "resources": {
     "resources": [
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (1).png",
         "kind": "image",
         "metadata": "",
@@ -72,6 +74,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (2).png",
         "kind": "image",
         "metadata": "",
@@ -80,6 +83,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (3).png",
         "kind": "image",
         "metadata": "",
@@ -88,6 +92,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (4).png",
         "kind": "image",
         "metadata": "",
@@ -96,6 +101,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (5).png",
         "kind": "image",
         "metadata": "",
@@ -104,6 +110,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (6).png",
         "kind": "image",
         "metadata": "",
@@ -112,6 +119,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (7).png",
         "kind": "image",
         "metadata": "",
@@ -120,6 +128,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (8).png",
         "kind": "image",
         "metadata": "",
@@ -128,6 +137,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (9).png",
         "kind": "image",
         "metadata": "",
@@ -136,6 +146,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Idle (10).png",
         "kind": "image",
         "metadata": "",
@@ -144,6 +155,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (1).png",
         "kind": "image",
         "metadata": "",
@@ -152,6 +164,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (2).png",
         "kind": "image",
         "metadata": "",
@@ -160,6 +173,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (3).png",
         "kind": "image",
         "metadata": "",
@@ -168,6 +182,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (4).png",
         "kind": "image",
         "metadata": "",
@@ -176,6 +191,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (5).png",
         "kind": "image",
         "metadata": "",
@@ -184,6 +200,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (6).png",
         "kind": "image",
         "metadata": "",
@@ -192,6 +209,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (7).png",
         "kind": "image",
         "metadata": "",
@@ -200,6 +218,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Run (8).png",
         "kind": "image",
         "metadata": "",
@@ -208,6 +227,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (1).png",
         "kind": "image",
         "metadata": "",
@@ -216,6 +236,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (2).png",
         "kind": "image",
         "metadata": "",
@@ -224,6 +245,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (3).png",
         "kind": "image",
         "metadata": "",
@@ -232,6 +254,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (4).png",
         "kind": "image",
         "metadata": "",
@@ -240,6 +263,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (5).png",
         "kind": "image",
         "metadata": "",
@@ -248,6 +272,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (6).png",
         "kind": "image",
         "metadata": "",
@@ -256,6 +281,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (7).png",
         "kind": "image",
         "metadata": "",
@@ -264,6 +290,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (8).png",
         "kind": "image",
         "metadata": "",
@@ -272,6 +299,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (9).png",
         "kind": "image",
         "metadata": "",
@@ -280,6 +308,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Jump (10).png",
         "kind": "image",
         "metadata": "",
@@ -288,6 +317,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (1).png",
         "kind": "image",
         "metadata": "",
@@ -296,6 +326,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (2).png",
         "kind": "image",
         "metadata": "",
@@ -304,6 +335,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (3).png",
         "kind": "image",
         "metadata": "",
@@ -312,6 +344,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (4).png",
         "kind": "image",
         "metadata": "",
@@ -320,6 +353,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (5).png",
         "kind": "image",
         "metadata": "",
@@ -328,6 +362,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (6).png",
         "kind": "image",
         "metadata": "",
@@ -336,6 +371,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (7).png",
         "kind": "image",
         "metadata": "",
@@ -344,6 +380,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (8).png",
         "kind": "image",
         "metadata": "",
@@ -352,6 +389,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (9).png",
         "kind": "image",
         "metadata": "",
@@ -360,6 +398,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Dead (10).png",
         "kind": "image",
         "metadata": "",
@@ -368,6 +407,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (1).png",
         "kind": "image",
         "metadata": "",
@@ -376,6 +416,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (2).png",
         "kind": "image",
         "metadata": "",
@@ -384,6 +425,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (3).png",
         "kind": "image",
         "metadata": "",
@@ -392,6 +434,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (4).png",
         "kind": "image",
         "metadata": "",
@@ -400,6 +443,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (5).png",
         "kind": "image",
         "metadata": "",
@@ -408,6 +452,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (6).png",
         "kind": "image",
         "metadata": "",
@@ -416,6 +461,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Melee (7).png",
         "kind": "image",
         "metadata": "",
@@ -424,6 +470,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Shoot (1).png",
         "kind": "image",
         "metadata": "",
@@ -432,6 +479,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Shoot (2).png",
         "kind": "image",
         "metadata": "",
@@ -440,6 +488,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Shoot (3).png",
         "kind": "image",
         "metadata": "",
@@ -448,6 +497,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Slide (1).png",
         "kind": "image",
         "metadata": "",
@@ -456,6 +506,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Slide (2).png",
         "kind": "image",
         "metadata": "",
@@ -464,6 +515,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Slide (3).png",
         "kind": "image",
         "metadata": "",
@@ -472,6 +524,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Slide (4).png",
         "kind": "image",
         "metadata": "",
@@ -480,6 +533,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "GirlSprite/Slide (5).png",
         "kind": "image",
         "metadata": "",
@@ -488,6 +542,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/Plat1.png",
         "kind": "image",
         "metadata": "",
@@ -496,6 +551,7 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "未命名的作品-4.png",
         "kind": "image",
         "metadata": "",
@@ -504,6 +560,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "../未命名的作品-4.png",
         "kind": "image",
         "metadata": "",
@@ -512,6 +569,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/Gem1.png",
         "kind": "image",
         "metadata": "",
@@ -520,6 +578,7 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/Floor01.png",
         "kind": "image",
         "metadata": "",
@@ -528,11 +587,31 @@
         "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/Gem01.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Gem01.png",
         "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gem02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gem02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/coin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\coin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": true
       }
     ],
@@ -568,7 +647,19 @@
         "zoomFactor": 0.6244537826599987,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "GroupGem",
+          "objects": [
+            {
+              "name": "Gem1"
+            },
+            {
+              "name": "Gem2"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -593,7 +684,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Gem",
+          "name": "Gem1",
           "persistentUuid": "aa89339e-ff63-491f-9de6-3dff4841f15c",
           "width": 0,
           "x": 741,
@@ -609,7 +700,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Gem",
+          "name": "Gem1",
           "persistentUuid": "8c907333-cd97-43b5-b813-11722873803e",
           "width": 0,
           "x": 907,
@@ -649,6 +740,22 @@
           "x": 120,
           "y": 334,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gem2",
+          "persistentUuid": "15ad02fd-acdb-4e47-935a-976517151461",
+          "width": 0,
+          "x": 287,
+          "y": 212,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2702,12 +2809,17 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Gem",
+          "name": "Gem1",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -2758,6 +2870,71 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Gem2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Gem2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Gem02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 68,
+                            "y": 0
+                          },
+                          {
+                            "x": 68,
+                            "y": 86
+                          },
+                          {
+                            "x": 0,
+                            "y": 86
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2770,7 +2947,10 @@
             "objectName": "Floor"
           },
           {
-            "objectName": "Gem"
+            "objectName": "Gem1"
+          },
+          {
+            "objectName": "Gem2"
           }
         ]
       },
@@ -2786,6 +2966,36 @@
             "textR": 0
           },
           "comment": "for Girl"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraCenterX(), Girl.X(), 0.1)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "Girl.Y()-80",
+                "",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -3019,21 +3229,129 @@
               },
               "parameters": [
                 "Girl",
-                "Gem",
+                "GroupGem",
                 "",
                 "",
                 "no"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Delete"
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Gem",
+                "GroupGem",
+                "Tween",
+                "\"GemAlpha\"",
+                "0",
+                "\"easeInOutQuad\"",
+                "1",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "GroupGem",
+                "Tween",
+                "\"GemY\"",
+                "GroupGem.Y()-100",
+                "\"easeInOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\coin.wav",
+                "",
+                "100",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::Exists"
+              },
+              "parameters": [
+                "GroupGem",
+                "Tween",
+                "\"GemAlpha\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "CreateByName"
+              },
+              "parameters": [
+                "",
+                "GroupGem",
+                "\"Gem\"+ToString(RandomInRange(1,2))",
+                "Girl.X()+50",
+                "Girl.Y()-100",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "Girl",
+                ">",
+                "500"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+              },
+              "parameters": [
+                "",
+                "\"layout1\"",
+                "700",
+                "0",
+                "0"
               ]
             }
           ]
@@ -3117,11 +3435,153 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [],
-  "externalLayouts": []
+  "externalLayouts": [
+    {
+      "associatedLayout": "Level 1",
+      "name": "layout1",
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "742a5f9e-081c-4db3-81b7-df79e48d7d11",
+          "width": 1307,
+          "x": -10,
+          "y": 500,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "382e75b2-6ceb-4ffa-b90c-ff9889a827c5",
+          "width": 125,
+          "x": 620,
+          "y": 291,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "eb9e5d99-1fff-45ca-b216-6401d089cd9f",
+          "width": 292,
+          "x": 206,
+          "y": 370,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "054d42ff-a46e-4d70-9992-0012c624090f",
+          "width": 198,
+          "x": 919,
+          "y": 377,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "10a7af63-64e5-48ef-9f40-2454b0382151",
+          "width": 81,
+          "x": 1147,
+          "y": 180,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gem1",
+          "persistentUuid": "a8bce5d6-0263-476a-a57d-c0c3c9115225",
+          "width": 0,
+          "x": 652,
+          "y": 185,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gem2",
+          "persistentUuid": "9a949bd5-c8d1-4d06-9ad6-f076c6f12b1b",
+          "width": 0,
+          "x": 1157,
+          "y": 81,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "editionSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      }
+    }
+  ],
+  "externalSourceFiles": []
 }
