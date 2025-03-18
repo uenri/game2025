@@ -613,6 +613,71 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionTexture1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionTexture1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/50be691a42be33a96faa72d0fc17e0463403326c605888adb799bbb2b02e3fd8_ExplosionTexture1.png",
+          "name": "ExplosionTexture1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionFog-Texture-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionFog-Texture-2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2.png",
+          "name": "ExplosionFog-Texture-2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Lightning-Texture-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lightning-Texture-1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/59f79e94532692d7af37ad256af2fc5e3e4de06e178f51de298704cc5eb449b2_Lightning-Texture-1.png",
+          "name": "Lightning-Texture-1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gas.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/04556cffa8fa75a9515382f3ad3d092361a7a339c612344926d372f906e3e7ed_Gas.png",
+          "name": "Gas.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LightGlow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightGlow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/GDevelop/c17e2d500015e598624b763f4942b26e3aac96efca094cd20257a61e15b27fcb_LightGlow.png",
+          "name": "LightGlow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -651,7 +716,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6244537826599987,
+        "zoomFactor": 0.8700232859857289,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3092,6 +3157,51 @@
             "characterSize": 30,
             "color": "0;0;0"
           }
+        },
+        {
+          "additive": true,
+          "assetStoreId": "ce6caabbc8bee5296428f4e756868114a785fac84bbb6b22d4910a63e421c5df",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 140,
+          "emitterForceMin": 80,
+          "flow": 300,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 300,
+          "name": "BlueExplosion",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 0,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 64,
+          "particleRed2": 128,
+          "particleSize1": 50,
+          "particleSize2": 60,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 0,
+          "rendererParam2": 0,
+          "rendererType": "Quad",
+          "tank": 100,
+          "textureParticleName": "LightGlow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 0,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -3114,6 +3224,9 @@
           },
           {
             "objectName": "Score"
+          },
+          {
+            "objectName": "BlueExplosion"
           }
         ]
       },
@@ -3766,6 +3879,18 @@
                 "Score",
                 "+",
                 "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BlueExplosion",
+                "GroupGem.X()",
+                "GroupGem.Y()",
+                ""
               ]
             }
           ]
